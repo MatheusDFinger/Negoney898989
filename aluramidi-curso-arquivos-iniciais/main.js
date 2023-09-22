@@ -44,6 +44,7 @@ function tocaSomTom(){ document.querySelector('.tecla_tom');
 }
 document.querySelector('.tecla_tom').onclick = tocaSomtom;
 
+ASASSSAD
 
 
 
